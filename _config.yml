@@ -1,12 +1,34 @@
-title: Tala's Little Corner of the Web
-author: Marlene Witsch
-email: marlenewitsch@gmail.com
-description:
-  Talasa lerning new things and trying them out. 
+title: "Tala's Little Corner of the Web"
+author: "Talasa Silverwind"
+description: "... what Talasa is doing in her spare time wenn not gaming or creating offline." 
 
-twitter_username: Talasa_S
-github_username: TalasaSilverwind
+email: ""
+twitter_username: "Talasa_S"
+github_username: "TalasaSilverwind"
+linkedin_username: ""
+instagram_username: ""
+youtube_username: ""
 
-show_excerpts: true
+theme: "minima"
 
-theme: jekyll-theme-midnight
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
+
