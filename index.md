@@ -1,5 +1,1 @@
----
-title: "Tala's Little Corner"
----
-
-Index
+Things about this page
