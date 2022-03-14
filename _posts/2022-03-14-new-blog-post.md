@@ -61,15 +61,15 @@ _**italic and bold text v5**_
 2. H
 3. A
 4. T
-  1. D
-  2. I
-  3. D
+    1. D
+    2. I
+    3. D
 5. Y
 6. O
 7. U
-  1. S
-  2. A
-  3. Y
+    1. S
+    2. A
+    3. Y
 
 - Just
 - Some
@@ -79,14 +79,14 @@ _**italic and bold text v5**_
 - Things
 - To 
 - List
-  - Nothing
-  - To
-  - Worry 
+    - Nothing
+    - To
+    - Worry 
 
 let's see some `code`.
 
-  will this be code
-  we will see
+    will this be code
+    we will see
 
 ---
 
